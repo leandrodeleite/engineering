@@ -31,3 +31,20 @@ Get started
 More resources  
 ```
 
+---
+__ Install Mojo  
+
+```
+Install
+    Add the VS Code extension
+    Print "Hello world"
+    Try some examples
+Update
+Uninstall
+What's included
+    mojo
+    mojo-compiler
+System requirements
+GPU compatibility
+```
+
