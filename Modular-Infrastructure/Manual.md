@@ -97,3 +97,11 @@ Traits
 Parameterization: compile-time metaprogramming
 ```
 
+---
+05 __Pointers  
+
+```
+Intro to pointers
+Unsafe pointers
+```
+
