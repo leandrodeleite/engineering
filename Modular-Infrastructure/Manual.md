@@ -70,3 +70,13 @@ Structs
 Modules and packages
 ```
 
+---
+02 __ Value Ownership  
+
+```
+Intro to value ownership
+Value semantics
+Ownership
+Lifetimes, origins, and references
+```
+
