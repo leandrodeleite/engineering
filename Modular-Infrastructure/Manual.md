@@ -132,3 +132,14 @@ Calling Mojo from Python
 Python types
 ```
 
+---
+09 __ Tools  
+
+```
+Mojo CLI
+Pixi
+Debugging
+GPU debugging
+Testing
+```
+
