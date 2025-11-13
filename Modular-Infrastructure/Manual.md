@@ -49,6 +49,12 @@ GPU compatibility
 ```
 
 ---
+__ Changelog
+```
+
+```
+
+---
 00 __ Tutorials  
 ```
 Get started with Mojo  
