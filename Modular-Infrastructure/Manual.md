@@ -89,3 +89,11 @@ Life of a value
 Death of a value
 ```
 
+---
+04 __ Trait and Parameters  
+
+```
+Traits
+Parameterization: compile-time metaprogramming
+```
+
