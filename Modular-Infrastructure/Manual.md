@@ -105,3 +105,12 @@ Intro to pointers
 Unsafe pointers
 ```
 
+---
+06 __ GPU Programming  
+
+```
+Intro to GPUs
+Programming fundamentals
+Basics
+```
+
