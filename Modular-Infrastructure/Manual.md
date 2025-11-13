@@ -114,3 +114,11 @@ Programming fundamentals
 Basics
 ```
 
+---
+07 __ Layout and LayoutTensor  
+
+```
+Introduction to layouts
+Using LayoutTensor
+```
+
