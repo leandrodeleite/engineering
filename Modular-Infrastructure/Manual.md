@@ -80,3 +80,12 @@ Ownership
 Lifetimes, origins, and references
 ```
 
+---
+03 __ Value Lifecycle  
+
+```
+Intro to value lifecycle
+Life of a value
+Death of a value
+```
+
