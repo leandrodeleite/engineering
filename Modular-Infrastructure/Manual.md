@@ -48,3 +48,10 @@ System requirements
 GPU compatibility
 ```
 
+---
+00 __ Tutorials  
+```
+Get started with Mojo  
+Get started with GPU programming  
+```
+
