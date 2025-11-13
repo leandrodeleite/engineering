@@ -55,3 +55,18 @@ Get started with Mojo
 Get started with GPU programming  
 ```
 
+---
+01 __ Language Basics  
+
+```
+Overview
+Functions
+Variables
+Types
+Operators and expressions
+Control flow
+Errors and context managers
+Structs
+Modules and packages
+```
+
