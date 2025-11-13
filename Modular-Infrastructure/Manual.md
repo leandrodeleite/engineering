@@ -122,3 +122,13 @@ Introduction to layouts
 Using LayoutTensor
 ```
 
+---
+08 __ Python Interop  
+
+```
+Introduction
+Calling Python from Mojo
+Calling Mojo from Python
+Python types
+```
+
