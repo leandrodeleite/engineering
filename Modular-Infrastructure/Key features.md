@@ -62,6 +62,7 @@ Value ownership: Mojo's ownership system ensures that only one variable "owns" a
 | https://docs.modular.com/mojo/manual/values/
 
 Compile-time metaprogramming: Mojo's parameterization system enables powerful metaprogramming in which the compiler generates a unique version of a type or function based on parameter values, similar to C++ templates, but more intuitive. Read about parameterization.
+| https://docs.modular.com/mojo/manual/parameters/
 
 Hardware portability: Mojo is designed from the ground up to support heterogeneous hardware—the Mojo compiler makes no assumptions about whether your code is written for CPUs, GPUs, or something else. Instead, hardware behaviors are handled by Mojo libraries, as demonstrated by types such as SIMD that allows you to write vectorized code for CPUs, and the gpu package that enables hardware-agnostic GPU programming. Read about GPU programming.
 
