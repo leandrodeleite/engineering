@@ -32,6 +32,10 @@ GPU Puzzles
 *Learn to program GPUs in Mojo  
 by solving increasingly complex challenges*  
 
+Code examples
+| [examples/mojo](https://github.com/modular/modular/tree/main/examples/mojo)  
+*Browse a wide range of Mojo code examples on GitHub*
+
 Using AI coding assistants with Mojo
 | https://docs.modular.com/max/coding-assistants/
 
