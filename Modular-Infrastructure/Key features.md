@@ -17,9 +17,12 @@ high-performance Mojo code for CPUs and GPUs.
 Docs on GitHub
 | [mojo/docs ](https://github.com/modular/modular/tree/main/mojo/docs)  
 
-Get Started with a tutorial
+Get started with Mojo
 | [mojo/manual/get-started](https://docs.modular.com/mojo/manual/get-started/)  
- 
+*Install Mojo and learn the language basics  
+by building a complete Mojo program*  
+
+
 Using AI coding assistants with Mojo
 | https://docs.modular.com/max/coding-assistants/
 
