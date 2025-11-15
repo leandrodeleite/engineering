@@ -10,6 +10,7 @@ Complete guide.
 Combine with:  
 Mojo API reference
 | [mojo/lib](https://docs.modular.com/mojo/lib/)  
+*Mojo standard library and other references*
 
 Everything you need to write  
 high-performance Mojo code for CPUs and GPUs.  
