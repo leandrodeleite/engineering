@@ -55,7 +55,8 @@ Pythonic syntax.
 *Fully integrates the existing Python ecosystem,  
 including its wealth of AI and machine-learning libraries.*  
 
-Mojo adopts (and extends) Python's syntax and integrates with existing Python code. Mojo's interoperability works in both directions, so you can import Python libraries into Mojo and create Mojo bindings to call from Python.  
+Mojo adopts (and extends) Python's syntax and integrates with existing Python code.  
+Mojo's interoperability works in both directions, so you can import Python libraries into Mojo and create Mojo bindings to call from Python.  
 
 
 All data types—including basic types such as String and Int—are defined as structs. No types are built into the language itself. That means you can define your own types that have all the the same capabilities as the standard library types.  
