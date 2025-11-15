@@ -74,17 +74,18 @@ as the standard library types.*
 
 
 ---
-Traits, Zero-cost Traits
+Traits, Trait system, Zero-cost Traits
 | [mojo/manual/traits](https://docs.modular.com/mojo/manual/traits/)
 
-Mojo's trait system solves the problem of static typing  
+Solves the problem of static typing  
 by letting you define a shared set of behaviors  
 that types (structs) can implement.  
-It allows you to write functions  
+
+*It allows you to write functions  
 that depend on traits rather than specific types,  
 similar to interfaces in Java or protocols in Swift,  
 except with compile-time type checking and  
-no run-time performance cost.  
+no run-time performance cost.*  
 
 
 ---
