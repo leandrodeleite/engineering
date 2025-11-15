@@ -107,12 +107,13 @@ without the overhead cost of a garbage collector.*
 Parameterization, Compile-time metaprogramming
 | [mojo/manual/parameters](https://docs.modular.com/mojo/manual/parameters/)
 
-Mojo's parameterization system  
-enables powerful metaprogramming  
-in which  
-the compiler generates a unique version of a type or function  
+Parameterization system  
+enables powerful metaprogramming.  
+
+*Compiler generates a unique version   
+of a type or function  
 based on parameter values,  
-similar to C++ templates, but more intuitive.  
+similar to C++ templates, but more intuitive.*  
 
 
 ---
