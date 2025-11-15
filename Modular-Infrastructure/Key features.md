@@ -19,6 +19,9 @@ Docs on GitHub
 
 Get Started with a tutorial
 | [mojo/manual/get-started](https://docs.modular.com/mojo/manual/get-started/)  
+ 
+Using AI coding assistants with Mojo
+| https://docs.modular.com/max/coding-assistants/
 
 
 ## About Mojo
