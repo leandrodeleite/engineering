@@ -59,6 +59,7 @@ Zero-cost traits: Mojo's trait system solves the problem of static typing by let
 | https://docs.modular.com/mojo/manual/traits/
 
 Value ownership: Mojo's ownership system ensures that only one variable "owns" a specific value at a given time—such that Mojo can safely deallocate the value when the owner's lifetime ends—while still allowing you to share references to the value. This provides safety from errors such as use-after-free, double-free, and memory leaks without the overhead cost of a garbage collector. Read about ownership.
+| https://docs.modular.com/mojo/manual/values/
 
 Compile-time metaprogramming: Mojo's parameterization system enables powerful metaprogramming in which the compiler generates a unique version of a type or function based on parameter values, similar to C++ templates, but more intuitive. Read about parameterization.
 
