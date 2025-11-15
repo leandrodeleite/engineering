@@ -36,6 +36,11 @@ Code examples
 | [examples/mojo](https://github.com/modular/modular/tree/main/examples/mojo)  
 *Browse a wide range of Mojo code examples on GitHub*
 
+Community
+| [/community](https://www.modular.com/community)  
+*Chat with us and the community  
+in our forum and Discord channels*
+
 Using AI coding assistants with Mojo
 | https://docs.modular.com/max/coding-assistants/
 
