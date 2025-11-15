@@ -103,7 +103,12 @@ without the overhead cost of a garbage collector.
 Parameterization, Compile-time metaprogramming
 | [mojo/manual/parameters](https://docs.modular.com/mojo/manual/parameters/)
 
-Mojo's parameterization system enables powerful metaprogramming in which the compiler generates a unique version of a type or function based on parameter values, similar to C++ templates, but more intuitive.  
+Mojo's parameterization system  
+enables powerful metaprogramming  
+in which  
+the compiler generates a unique version of a type or function  
+based on parameter values,  
+similar to C++ templates, but more intuitive.  
 
 
 Mojo is designed from the ground up to support heterogeneous hardware—the Mojo compiler makes no assumptions about whether your code is written for CPUs, GPUs, or something else. Instead, hardware behaviors are handled by Mojo libraries, as demonstrated by types such as SIMD that allows you to write vectorized code for CPUs, and the gpu package that enables hardware-agnostic GPU programming.  
