@@ -120,13 +120,15 @@ similar to C++ templates, but more intuitive.*
 GPU programming, Hardware portability
 | [mojo/manual/gpu/fundamentals](https://docs.modular.com/mojo/manual/gpu/fundamentals/)
 
-Mojo is designed from the ground up to support heterogeneous hardware  
+Mojo is designed from the ground up  
+to support heterogeneous hardware  
 — the Mojo compiler makes no assumptions  
-about whether your code is written for CPUs, GPUs, or something else.  
-Instead,  
+about whether your code is written for  
+CPUs, GPUs, or something else.  
+
+*Instead,  
 hardware behaviors are handled by Mojo libraries,  
-as demonstrated by types such as SIMD  
-that allows you to write vectorized code for CPUs,  
-and the gpu package  
-that enables hardware-agnostic GPU programming.  
+as demonstrated by types such as:  
+• `SIMD` that allows you to write vectorized code for CPUs,   
+• `gpu` package that enables hardware-agnostic GPU programming.*  
 
