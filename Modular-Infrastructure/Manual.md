@@ -22,8 +22,8 @@ __ Changelog
 
 
 ---
-__ Introduction  
-
+__ Introduction
+| [mojo/manual](https://docs.modular.com/mojo/manual/)
 ```
 About Mojo  
 Key features  
