@@ -32,8 +32,8 @@ More resources
 ```
 
 ---
-__ Install Mojo  
-
+__ Install Mojo
+| [mojo/manual/install](https://docs.modular.com/mojo/manual/install)
 ```
 Install
     Add the VS Code extension
