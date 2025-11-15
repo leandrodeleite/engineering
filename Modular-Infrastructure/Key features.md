@@ -65,13 +65,12 @@ Integrates with existing Python code.
 Structs, Struct-based types
 | [mojo/manual/structs](https://docs.modular.com/mojo/manual/structs/)
 
-All data types  
-— including basic types such as `String` and `Int`  
-— are defined as structs.  
+All data types are defined as structs.  
+— including basic types such as `String` and `Int`.  
 No types are built into the language itself.  
-That means you can define your own types  
+*That means you can define your own types  
 that have all the the same capabilities  
-as the standard library types.  
+as the standard library types.*  
 
 
 ---
