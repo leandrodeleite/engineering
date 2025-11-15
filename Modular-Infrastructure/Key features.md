@@ -22,6 +22,9 @@ Get started with Mojo
 *Install Mojo and learn the language basics  
 by building a complete Mojo program*  
 
+Get started with GPU programming
+| [mojo/manual/gpu/intro-tutorial](https://docs.modular.com/mojo/manual/gpu/intro-tutorial/)  
+*Learn the basics of GPU programming with Mojo*  
 
 Using AI coding assistants with Mojo
 | https://docs.modular.com/max/coding-assistants/
