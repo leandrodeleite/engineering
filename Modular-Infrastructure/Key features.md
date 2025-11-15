@@ -85,9 +85,19 @@ except with compile-time type checking and
 no run-time performance cost.  
 
 
-Mojo's ownership system ensures that only one variable "owns" a specific value at a given time—such that Mojo can safely deallocate the value when the owner's lifetime ends—while still allowing you to share references to the value. This provides safety from errors such as use-after-free, double-free, and memory leaks without the overhead cost of a garbage collector.  
+---
 Ownership, Value ownership
 | [mojo/manual/values](https://docs.modular.com/mojo/manual/values/)
+
+Mojo's ownership system ensures that  
+only one variable "owns" a specific value at a given time  
+— such that Mojo can safely deallocate the value  
+when the owner's lifetime ends  
+— while still allowing you to share references to the value.  
+This provides safety from errors  
+such as use-after-free, double-free, and memory leaks  
+without the overhead cost of a garbage collector.  
+
 
 Mojo's parameterization system enables powerful metaprogramming in which the compiler generates a unique version of a type or function based on parameter values, similar to C++ templates, but more intuitive.  
 Parameterization, Compile-time metaprogramming
