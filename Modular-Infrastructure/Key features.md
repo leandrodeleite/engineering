@@ -56,6 +56,7 @@ Struct-based types: All data types—including basic types such as String and In
 | https://docs.modular.com/mojo/manual/structs/
 
 Zero-cost traits: Mojo's trait system solves the problem of static typing by letting you define a shared set of behaviors that types (structs) can implement. It allows you to write functions that depend on traits rather than specific types, similar to interfaces in Java or protocols in Swift, except with compile-time type checking and no run-time performance cost. Read about traits.
+| https://docs.modular.com/mojo/manual/traits/
 
 Value ownership: Mojo's ownership system ensures that only one variable "owns" a specific value at a given time—such that Mojo can safely deallocate the value when the owner's lifetime ends—while still allowing you to share references to the value. This provides safety from errors such as use-after-free, double-free, and memory leaks without the overhead cost of a garbage collector. Read about ownership.
 
