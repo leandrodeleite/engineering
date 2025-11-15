@@ -89,17 +89,18 @@ no run-time performance cost.*
 
 
 ---
-Ownership, Value ownership
+Ownership system, Value ownership
 | [mojo/manual/values](https://docs.modular.com/mojo/manual/values/)
 
-Mojo's ownership system ensures that  
-only one variable "owns" a specific value at a given time  
+Ensures that only one variable "owns"  
+a specific value at a given time  
 — such that Mojo can safely deallocate the value  
 when the owner's lifetime ends  
 — while still allowing you to share references to the value.  
-This provides safety from errors  
+
+*This provides safety from errors  
 such as use-after-free, double-free, and memory leaks  
-without the overhead cost of a garbage collector.  
+without the overhead cost of a garbage collector.*  
 
 
 ---
