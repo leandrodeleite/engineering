@@ -50,6 +50,7 @@ Mojo vision
 ## Key features
 
 Python syntax & interop: Mojo adopts (and extends) Python's syntax and integrates with existing Python code. Mojo's interoperability works in both directions, so you can import Python libraries into Mojo and create Mojo bindings to call from Python. Read about Python interop.
+| https://docs.modular.com/mojo/manual/python/
 
 Struct-based types: All data types—including basic types such as String and Int—are defined as structs. No types are built into the language itself. That means you can define your own types that have all the the same capabilities as the standard library types. Read about structs.
 
