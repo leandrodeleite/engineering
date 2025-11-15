@@ -53,8 +53,9 @@ Mojo adopts (and extends) Python's syntax and integrates with existing Python co
 Python syntax & interop
 | [mojo/manual/python](https://docs.modular.com/mojo/manual/python/)
 
-Struct-based types: All data types—including basic types such as String and Int—are defined as structs. No types are built into the language itself. That means you can define your own types that have all the the same capabilities as the standard library types. Read about structs.
-| https://docs.modular.com/mojo/manual/structs/
+All data types—including basic types such as String and Int—are defined as structs. No types are built into the language itself. That means you can define your own types that have all the the same capabilities as the standard library types.  
+Structs, Struct-based types
+| [mojo/manual/structs](https://docs.modular.com/mojo/manual/structs/)
 
 Zero-cost traits: Mojo's trait system solves the problem of static typing by letting you define a shared set of behaviors that types (structs) can implement. It allows you to write functions that depend on traits rather than specific types, similar to interfaces in Java or protocols in Swift, except with compile-time type checking and no run-time performance cost. Read about traits.
 | https://docs.modular.com/mojo/manual/traits/
