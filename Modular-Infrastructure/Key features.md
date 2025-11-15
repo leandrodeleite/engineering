@@ -65,4 +65,5 @@ Compile-time metaprogramming: Mojo's parameterization system enables powerful me
 | https://docs.modular.com/mojo/manual/parameters/
 
 Hardware portability: Mojo is designed from the ground up to support heterogeneous hardware—the Mojo compiler makes no assumptions about whether your code is written for CPUs, GPUs, or something else. Instead, hardware behaviors are handled by Mojo libraries, as demonstrated by types such as SIMD that allows you to write vectorized code for CPUs, and the gpu package that enables hardware-agnostic GPU programming. Read about GPU programming.
+| https://docs.modular.com/mojo/manual/gpu/fundamentals/
 
