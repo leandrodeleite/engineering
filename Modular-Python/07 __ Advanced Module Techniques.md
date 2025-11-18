@@ -20,3 +20,12 @@ Package data
 Summary
 ```
 
+---
+*Preface, What this book covers*
+
+Chapter 7, Advanced Module Techniques, looks at some of the more distinctive
+aspects of modular programming in Python, including optional and local imports,
+tweaking the module search path, "gotchas" to be aware of, how to use modules and
+packages for rapid application development, working with package globals, package
+configuration, and package data files.
+
