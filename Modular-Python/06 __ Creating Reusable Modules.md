@@ -52,3 +52,26 @@ In the next chapter,
 we will look at some of the more advanced aspects  
 of working with modules and packages in Python.  
 
+---
+*Intro*
+
+As well as being a good technique for writing programs for your own use,  
+modular programming is also an excellent way of writing programs  
+that can be used by other programmers.  
+In this chapter,  
+we will look at how to design and implement modules and packages  
+that can be shared and reused in other programs.  
+
+In particular, we will:  
+- See how modules and packages can be used as a way of sharing the code that
+you write  
+- See how writing a module for reuse differs from writing a module for use as
+part of just one program  
+- Discover what makes a module suitable for reuse  
+- Look at examples of successful reusable modules  
+- Design a package to be reusable  
+- Implement a reusable package  
+
+Let's start by taking a look at how you can use modules and packages  
+to share your code with other people.  
+
