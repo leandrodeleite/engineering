@@ -5,6 +5,8 @@
 ```
 Preface
 Description
+What you will learn
+Key benefits
 ```
 
 
@@ -25,6 +27,17 @@ Description
 - Make use of modules and packages that others have written  
 - Use modular techniques to build robust systems  
   that can handle complexity and changing requirements over time  
+
+
+---
+*Key benefits*
+
+- The book would help you develop succinct,  
+expressive programs using modular design  
+- The book would explain best practices and common idioms  
+through carefully explained and structured examples  
+- It will have broad appeal as far as target audience is concerned and  
+there would be take away for all beginners to Python  
 
 
 ---
