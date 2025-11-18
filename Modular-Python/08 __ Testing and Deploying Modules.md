@@ -58,3 +58,21 @@ In the final chapter of this book,
 we will see how modular programming acts more generally  
 as the foundation for good programming techniques.  
 
+---
+*Intro*
+
+In this chapter,  
+we will delve further into the concept of sharing modules.  
+Before you can share a module or package,  
+you need to test it to ensure that it is working properly.  
+You also need to prepare your code and know how to deploy it.  
+To learn these things, we will cover the following topics:  
+
+- See how unit tests can be used to ensure  
+that your module or package is working properly  
+- Learn how to prepare a module or package for publication  
+- Find out how GitHub can be used to share your code with others  
+- Examine the steps involved in submitting your code  
+to the Python Package Index  
+- Discover how to use pip to install and use packages written by other people  
+
