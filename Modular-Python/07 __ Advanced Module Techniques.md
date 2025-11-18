@@ -70,3 +70,23 @@ we will look at some of the ways
 in which you can test, deploy, and share  
 your Python modules and packages.  
 
+---
+*Intro*
+
+In this chapter,  
+we will look at a number of more advanced techniques  
+for working with modules and packages.  
+In particular, we will:  
+
+- Examine the more unusual ways in which the import statement can be
+used,  
+including optional imports, local imports, and  
+how to tweak the way importing works by changing `sys.path`  
+- Briefly examine a number of "gotchas"  
+relating to importing modules and packages  
+- Take a look at how you can use the Python interactive interpreter  
+to help develop your modules and packages more quickly  
+- Learn how to work with global variables within a module or package  
+- See how to configure a package  
+- Discover how to include data files as part of your Python package.  
+
