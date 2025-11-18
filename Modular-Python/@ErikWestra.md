@@ -20,3 +20,14 @@ This work has included the creation of real-time geocoders and map-based views
 of constantly changing data.  
 Erik is based in New Zealand, and works for companies worldwide.  
 
+
+
+Erik is the author of the following Packt books:  
+Python Geospatial Development (third edition),  
+Python Geospatial Analysis,  
+Building Mapping Applications with QGIS, and  
+Modular Programming with Python.  
+
+Erik has also authored the video course entitled  
+Introduction to QGIS Python Programming.  
+
