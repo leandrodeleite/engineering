@@ -66,3 +66,30 @@ we will apply modular techniques to the development
 of a more sophisticated program consisting of several modules working together  
 to solve a more complex programming problem.
 
+---
+*Intro*
+
+Modular programming is an essential tool for the modern developer.  
+Gone are the days when you could just throw something together and hope that it works.  
+To build robust systems that last,  
+you need to understand how to organize your programs  
+so that they can grow and evolve over time.  
+Spaghetti coding is not an option.  
+Modular programming techniques,  
+and in particular the use of Python modules and packages,  
+will give you the tools you need to succeed as a professional  
+in the fast changing programming landscape.
+
+In this chapter, we will:
+_ Look at the fundamental aspects of modular programming  
+_ See how Python modules and packages can be used to organize your code  
+_ Discover what happens when modular programming techniques are not used  
+_ Learn how modular programming helps you stay on top of the
+development process  
+_ Take a look at the Python standard library as an example of modular
+programming  
+_ Create a simple program, built using modular techniques, to see how it
+works in practice  
+
+Let's get started by learning about modules and how they work.
+
