@@ -26,3 +26,10 @@ Lessons learned
 Summary
 ```
 
+---
+*Preface, What this book covers*
+
+Chapter 4, Using Modules for Real-World Programming, uses the implementation of a
+chart-generation library to show how modular techniques help to deal with changing
+requirements in the best possible way.
+
