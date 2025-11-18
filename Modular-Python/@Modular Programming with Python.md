@@ -26,3 +26,23 @@
 08 __ Testing and Deploying Modules  
 09 __ Modular Programming as a Foundation for Good Programming Technique  
 
+
+---
+*Contents, Detailed*
+
+
+01 __ Introducing Modular Programming
+```
+Introducing Python modules
+Introducing Python packages
+Using modules and packages to organize a program
+Why use modular programming techniques?
+Programming as a process
+The Python Standard Library
+Creating your first module
+    Caching
+    Writing a cache module
+    Using the cache
+Summary
+```
+
