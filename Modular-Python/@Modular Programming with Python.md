@@ -11,3 +11,18 @@
 
 # Modular Programming with Python
 
+
+*Introducing modular techniques  
+ for building sophisticated programs using Python*  
+
+
+01 __ Introducing Modular Programming  
+02 __ Writing Your First Modular Program  
+03 __ Using Modules and Packages  
+04 __ Using Modules for Real-World Programming  
+05 __ Working with Module Patterns  
+06 __ Creating Reusable Modules  
+07 __ Advanced Module Techniques  
+08 __ Testing and Deploying Modules  
+09 __ Modular Programming as a Foundation for Good Programming Technique  
+
