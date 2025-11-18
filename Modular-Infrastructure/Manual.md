@@ -76,6 +76,21 @@ Structs
 Modules and packages
 ```
 
+```
+Overview
+
+    Hello world
+    Variables
+    Blocks and statements
+    Functions
+    Code comments
+    Structs
+        Traits
+    Parameterization
+    Python integration
+    Next steps
+```
+
 ---
 02 __ Value Ownership  
 
