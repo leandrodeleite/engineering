@@ -39,3 +39,17 @@ Erik is the author of the following Packt books:
 Erik has also authored the video course entitled  
 Introduction to QGIS Python Programming.  
 
+
+---
+*Technical Reviewer*
+| Mike Driscoll  
+
+Python 3 Object Oriented Programming  
+Python 2.6 Graphics Cookbook  
+Tkinter GUI Application Development Hotshot  
+
+*Author of*  
+https://blog.pythonlibrary.org/  
+Python 101 book  
+Core Python Refcard for DZone, co-authored  
+
