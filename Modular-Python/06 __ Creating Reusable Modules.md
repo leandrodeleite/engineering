@@ -24,3 +24,9 @@ Testing our reusable package
 Summary
 ```
 
+---
+*Preface, What this book covers*
+
+Chapter 6, Creating Reusable Modules, shows how to design and create modules and
+packages that are intended to be shared with other people.
+
