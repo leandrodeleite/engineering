@@ -93,3 +93,14 @@ works in practice
 
 Let's get started by learning about modules and how they work.
 
+---
+*Concept*
+| Modular Programming
+| [Packtpub](https://www.packtpub.com/en-us/programming/concept/modular-programming)
+| This page features the latest and most popular modular programming technology books.  
+
+Modular programming is a software design technique that emphasizes  
+separating the functionality of a program into independent, interchangeable modules.  
+This allows for efficient code reuse, flexibility,  
+and collaboration between developers working on different modules.  
+
