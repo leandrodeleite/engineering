@@ -19,3 +19,10 @@ Using pip to download and install modules and packages
 Summary
 ```
 
+---
+*Preface, What this book covers*
+
+Chapter 8, Testing and Deploying Modules, examines the concept of unit testing, how
+to prepare your modules and packages for publication, how to upload and publish
+your work, and how to make use of modules and packages written by other people.
+
