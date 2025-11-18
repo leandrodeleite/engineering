@@ -61,3 +61,23 @@ In the next chapter,
 we will learn how to use standard modular programming "patterns"  
 to deal with a range of programming challenges.  
 
+---
+*Intro*
+
+In this chapter,  
+we are going to use modular programming techniques  
+to implement a useful real-world system.  
+In particular, we will:  
+
+- Design and implement a Python package for generating charts  
+- See how changing requirements can be the downfall of a successful system  
+- Discover the ways in which modular programming techniques can help you
+to deal with changing requirements in the best possible way  
+- Learn that changing requirements can be good, because they give you
+the opportunity to re-think your program, resulting in more robust and
+well-designed code  
+
+Let's start by looking  
+at the Python chart-generating package we are going to implement,  
+which we will call Charter.  
+
