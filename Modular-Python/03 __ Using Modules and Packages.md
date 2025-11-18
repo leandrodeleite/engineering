@@ -20,3 +20,11 @@ Running modules from the command line
 Summary
 ```
 
+---
+*Preface, What this book covers*
+
+Chapter 3, Using Modules and Packages, covers the nuts and bolts of modular
+programming using Python, including nested packages, package and module
+initialization techniques, relative imports, choosing what gets imported, and how to
+deal with circular references.
+
