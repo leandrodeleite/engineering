@@ -9,6 +9,25 @@ Description
 
 
 ---
+*What you will learn*
+
+- Learn how to use modules and packages  
+  to organize your Python code  
+- Understand how to use the import statement  
+  to load modules and packages into your program  
+- Use common module patterns  
+  such as abstraction and encapsulation  
+  to write better programs  
+- Discover how to create self-testing Python packages  
+- Create reusable modules that other programmers can use  
+- Learn how to use GitHub and the Python Package Index  
+  to share your code with other people  
+- Make use of modules and packages that others have written  
+- Use modular techniques to build robust systems  
+  that can handle complexity and changing requirements over time  
+
+
+---
 *Preface*
 
 
