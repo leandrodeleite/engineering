@@ -54,3 +54,23 @@ of a more complicated program, and we will see how a good understanding
 of these techniques will let us build a system that is robust and  
 can be updated to meet changing requirements.
 
+---
+*Intro*
+
+To be able to use modules and packages within your Python programs,  
+you need to understand how they work.  
+In this chapter,  
+we will examine the nuts and bolts of  
+how modules and packages are defined and used in Python.  
+In particular, we will:  
+
+_ Review how Python modules and packages are defined  
+_ See how packages can be created inside other packages  
+_ Discover how modules and packages can be initialized  
+_ Learn more about the import process  
+_ Explore the notion of relative imports  
+_ Learn how to control what gets imported  
+_ Find out how to deal with circular dependencies  
+_ See how a module can be run directly from the command line,  
+and why this can be useful  
+
