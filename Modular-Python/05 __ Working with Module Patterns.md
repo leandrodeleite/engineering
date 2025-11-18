@@ -16,3 +16,11 @@ Extensible modules
 Summary
 ```
 
+---
+*Preface, What this book covers*
+
+Chapter 5, Working with Module Patterns, looks at a number of standard patterns for
+working with modules and packages, including the divide and conquer technique,
+abstraction, encapsulation, wrappers, and how to write extensible modules using
+dynamic imports, plugins, and hooks.
+
