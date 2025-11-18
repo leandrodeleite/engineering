@@ -19,3 +19,10 @@ Implementing the inventory control system
 Summary
 ```
 
+---
+*Preface, What this book covers*
+
+Chapter 2, Writing Your First Modular Program, introduces the divide and conquer
+approach to programming and applies this technique to the process of building an
+inventory control system based on modular programming principles. 
+
