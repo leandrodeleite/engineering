@@ -4,6 +4,7 @@
 
 ```
 Preface
+Description
 ```
 
 
@@ -51,4 +52,34 @@ you will have an excellent understanding
 of how modules and packages work in Python  
 and how to use them to create high-quality and robust software  
 that can be shared with others.  
+
+
+---
+*Description*
+
+Python has evolved over the years and  
+has become the primary choice of developers in various fields.  
+
+The purpose of this book is to help readers develop readable,  
+reliable, and maintainable programs in Python.  
+
+Starting with an introduction to the concept of modules and packages,  
+this book shows how you can use these building blocks  
+to organize a complex program into logical parts and  
+make sure those parts are working correctly together.  
+
+Using clearly written, real-world examples, this book demonstrates  
+how you can use modular techniques to build better programs.  
+A number of common modular programming patterns are covered,  
+including divide-and-conquer, abstraction, encapsulation, wrappers and extensibility.  
+
+You will also learn how to test your modules and packages,  
+how to prepare your code for sharing with other people, and  
+how to publish your modules and packages  
+on GitHub and the Python Package Index  
+so that other people can use them.  
+
+Finally,  
+you will learn how to use modular design techniques  
+to be a more effective programmer.
 
