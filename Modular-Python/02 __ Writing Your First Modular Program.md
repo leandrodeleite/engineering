@@ -50,3 +50,23 @@ In the next chapter,
 we will learn more about the nuts and bolts of  
 how modules and packages work within Python.  
 
+---
+*Intro*
+
+In this chapter,  
+we will use modular programming techniques  
+to implement a non-trivial program.  
+Along the way, we will:  
+
+_ Learn about the divide and conquer approach to program design  
+_ Examine the tasks our program needs to perform  
+_ Look at the information our program will need to store  
+_ Apply modular techniques to break our program down into individual parts  
+_ Figure out how each part can be implemented as a separate Python module  
+_ See how the various modules work together to implement our program's
+functionality  
+_ Follow this process to implement a simple but complete  
+inventory control system  
+_ See how modular techniques allow you to add functionality to your program  
+while minimizing the changes that need to be made  
+
