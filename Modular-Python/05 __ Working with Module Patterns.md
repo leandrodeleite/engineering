@@ -62,3 +62,29 @@ In the next chapter,
 we will learn how to design and implement modules  
 that can be shared and reused in other programs.  
 
+---
+*Intro*
+
+In the previous chapters,  
+we have looked in detail at how Python modules and packages work, and  
+learned how you can use them in your programs.  
+When using modular programming techniques,  
+you will find that the ways in which modules and packages are used  
+tend to follow standard patterns.  
+In this chapter, we will  
+examine a number of these common patterns for using modules and packages  
+to deal with a range of programming challenges.  
+In particular, we will:
+
+- Learn how the divide and conquer technique  
+helps you to solve programming problems  
+- See how the principle of abstraction helps you to separate  
+what you want to do from how you do it  
+- Discover how encapsulation allows you to hide the details  
+of how information is represented from the rest of your system  
+- See that wrappers are modules that call other modules  
+to simplify or alter the way a module is used  
+- Learn how to create extensible modules  
+
+Let's start by looking at the principle of divide and conquer.
+
