@@ -24,7 +24,8 @@ Erik is based in New Zealand, and works for companies worldwide.
 
 Erik is the author of the following Packt books:  
 Python Geospatial Development (third edition),  
-Python Geospatial Analysis,  
+- Python GeoSpatial Analysis Essentials
+| [9781782174516](https://www.packtpub.com/en-us/product/python-geospatial-analysis-essentials-9781782174516)  
 - Building Mapping Applications with QGIS
 | [9781783984664](https://www.packtpub.com/en-us/product/building-mapping-applications-with-qgis-9781783984664)  
 - Modular Programming with Python
