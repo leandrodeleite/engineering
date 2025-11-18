@@ -21,6 +21,8 @@ of constantly changing data.
 Erik is based in New Zealand, and works for companies worldwide.  
 
 
+---
+*Also the author of the Packt titles*:  
 
 Erik is the author of the following Packt books:  
 - Python Geospatial Development - Second Edition
