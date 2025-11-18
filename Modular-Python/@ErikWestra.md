@@ -26,7 +26,10 @@ Erik is the author of the following Packt books:
 Python Geospatial Development (third edition),  
 Python Geospatial Analysis,  
 Building Mapping Applications with QGIS, and  
-Modular Programming with Python.  
+- Modular Programming with Python
+| [Amazon](https://www.amazon.com/Modular-Programming-Python-Erik-Westra-ebook/dp/B01BVHNOC6/ref=sr_1_6?s=books&sr=1-6&text=Erik+Westra)
+| [9781785887673](https://www.packtpub.com/en-us/product/modular-programming-with-python-9781785887673)
+, [9781785884481](https://www.packtpub.com/en-us/product/modular-programming-with-python-9781785884481)  
 
 Erik has also authored the video course entitled  
 Introduction to QGIS Python Programming.  
