@@ -65,3 +65,44 @@ the easier it will become—and the more effective
 you will be as a programmer.  
 Happy coding!  
 
+---
+*Intro*
+
+We have come a long way in this book.  
+From learning how modules and packages work in Python, and  
+how to use them to better organize your code,  
+we have discovered many of the common practices used  
+to apply modular patterns to solve a range of programming problems.  
+We have seen how modular programming allows us to deal with changing requirements  
+in a real-world system in the best possible way, and learned  
+what makes a module or package a suitable candidate for reuse in new projects.  
+We have seen many of the more advanced techniques  
+for working with modules and packages in Python,  
+as well as ways of avoiding the pitfalls  
+that you may encounter along the way.  
+
+Finally,  
+we looked at ways of testing your code,  
+how to use a source code management system  
+to keep track  of the changes you make to your code over time, and  
+how to submit your module or package to the Python Package Index (PyPI)  
+so that others can find and use it.  
+
+Using what we have learned thus far,  
+you will be able to competently apply modular techniques  
+to your Python programming efforts,  
+creating robust and well-written code  
+that can be reused in a variety of programs.  
+You can also share your code with others,  
+both inside your organization  
+and within the wider Python developer community.  
+
+In this final chapter,  
+we will use a practical example to show how modules and packages  
+do far more than just organize your code:  
+they help to deal with the process of programming more effectively.  
+We will see  
+how modules are vital to the design and development of any large system, and  
+demonstrate how the use of modular techniques to create robust,  
+useful and well-written modules is an essential part of being a good programmer.  
+
