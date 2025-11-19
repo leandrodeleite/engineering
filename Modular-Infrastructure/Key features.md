@@ -4,39 +4,6 @@
 
 
 ---
-Links
-
-- Docs on GitHub  
-| [mojo/docs ](https://github.com/modular/modular/tree/main/mojo/docs)  
-
-- Get started with Mojo  
-| [mojo/manual/get-started](https://docs.modular.com/mojo/manual/get-started/)  
-*Install Mojo and learn the language basics  
-by building a complete Mojo program*  
-
-- Get started with GPU programming  
-| [mojo/manual/gpu/intro-tutorial](https://docs.modular.com/mojo/manual/gpu/intro-tutorial/)  
-*Learn the basics of GPU programming with Mojo*  
-
-- GPU Puzzles  
-| [puzzles.modular.com](https://puzzles.modular.com/introduction.html)  
-*Learn to program GPUs in Mojo  
-by solving increasingly complex challenges*  
-
-- Code examples  
-| [examples/mojo](https://github.com/modular/modular/tree/main/examples/mojo)  
-*Browse a wide range of Mojo code examples on GitHub*
-
-- Community  
-| [/community](https://www.modular.com/community)  
-*Chat with us and the community  
-in our forum and Discord channels*
-
-- Using AI coding assistants with Mojo  
-| https://docs.modular.com/max/coding-assistants/
-
-
----
 
 ## Mojo Manual
 
