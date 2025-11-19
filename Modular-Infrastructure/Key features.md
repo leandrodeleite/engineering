@@ -70,6 +70,13 @@ Mojo vision
 ---
 ## Key features
 
+- Python syntax & interop  
+- Structs, Struct-based types  
+- Traits, Trait system, Zero-cost Traits  
+- Ownership system, Value ownership  
+- Parameterization, Compile-time metaprogramming  
+- GPU programming, Hardware portability; MLIR  
+
 
 ---
 **Python syntax & interop**  
