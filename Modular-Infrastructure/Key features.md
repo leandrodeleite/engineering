@@ -74,15 +74,16 @@ all the way down to low-level GPU kernels
 — without using any hardware-specific libraries  
 (such as CUDA and ROCm).*  
 
-Mojo vision
+Mojo vision  
 | [mojo/vision](https://docs.modular.com/mojo/vision/)
 
 
+---
 ## Key features
 
 
 ---
-Python syntax & interop
+**Python syntax & interop**  
 | [mojo/manual/python](https://docs.modular.com/mojo/manual/python/)
 
 Pythonic syntax.  
@@ -91,24 +92,25 @@ including its wealth of AI and machine-learning libraries.*
 
 Adopts (and extends) Python's syntax.  
 Integrates with existing Python code.  
+
 *Interoperability works in both directions:  
 • Import Python libraries into Mojo.  
 • Create Mojo bindings to call from Python.*  
 
 ---
-Structs, Struct-based types
+**Structs, Struct-based types**  
 | [mojo/manual/structs](https://docs.modular.com/mojo/manual/structs/)
 
 All data types are defined as structs.  
 — including basic types such as `String` and `Int`.  
 No types are built into the language itself.  
+
 *That means you can define your own types  
 that have all the the same capabilities  
 as the standard library types.*  
 
-
 ---
-Traits, Trait system, Zero-cost Traits
+**Traits, Trait system, Zero-cost Traits**  
 | [mojo/manual/traits](https://docs.modular.com/mojo/manual/traits/)
 
 Solves the problem of static typing  
@@ -121,9 +123,8 @@ similar to interfaces in Java or protocols in Swift,
 except with compile-time type checking and  
 no run-time performance cost.*  
 
-
 ---
-Ownership system, Value ownership
+**Ownership system, Value ownership**  
 | [mojo/manual/values](https://docs.modular.com/mojo/manual/values/)
 
 Ensures that only one variable "owns"  
@@ -136,9 +137,8 @@ when the owner's lifetime ends
 such as use-after-free, double-free, and memory leaks  
 without the overhead cost of a garbage collector.*  
 
-
 ---
-Parameterization, Compile-time metaprogramming
+**Parameterization, Compile-time metaprogramming**  
 | [mojo/manual/parameters](https://docs.modular.com/mojo/manual/parameters/)
 
 Parameterization system  
@@ -149,9 +149,8 @@ of a type or function
 based on parameter values,  
 similar to C++ templates, but more intuitive.*  
 
-
 ---
-GPU programming, Hardware portability
+**GPU programming, Hardware portability**  
 | [mojo/manual/gpu/fundamentals](https://docs.modular.com/mojo/manual/gpu/fundamentals/)
 
 Mojo is designed from the ground up  
