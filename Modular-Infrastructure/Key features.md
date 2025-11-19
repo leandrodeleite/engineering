@@ -2,19 +2,6 @@
 ---
 @mojo/manual __  
 
----
-Mojo Manual
-| [mojo/manual](https://docs.modular.com/mojo/manual/)  
-Complete guide.
-
-Combine with:  
-Mojo API reference
-| [mojo/lib](https://docs.modular.com/mojo/lib/)  
-*Mojo standard library and other references*
-
-Everything you need to write  
-high-performance Mojo code for CPUs and GPUs.  
-
 
 ---
 Links
@@ -48,6 +35,25 @@ in our forum and Discord channels*
 - Using AI coding assistants with Mojo  
 | https://docs.modular.com/max/coding-assistants/
 
+
+---
+
+## Mojo Manual
+
+Complete guide.  
+**Mojo Manual**  
+| [mojo/manual](https://docs.modular.com/mojo/manual/)  
+
+Combine with:  
+**Mojo API reference**  
+| [mojo/lib](https://docs.modular.com/mojo/lib/)  
+*Mojo standard library and other references*
+
+Everything you need to write  
+high-performance Mojo code for CPUs and GPUs.  
+
+
+---
 
 ## About Mojo
 
