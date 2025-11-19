@@ -63,17 +63,6 @@ Specifically designed for
 • Heterogeneous hardware.  
 
 
-Built from the ground-up using MLIR.  
-— *a modern compiler infrastructure  
-for heterogeneous hardware,  
-from CPUs to GPUs and other AI ASICs.*  
-Meaning:  
-*One language to write all your code,  
-from high-level AI applications  
-all the way down to low-level GPU kernels  
-— without using any hardware-specific libraries  
-(such as CUDA and ROCm).*  
-
 Mojo vision  
 | [mojo/vision](https://docs.modular.com/mojo/vision/)
 
@@ -164,4 +153,17 @@ hardware behaviors are handled by Mojo libraries,
 as demonstrated by types such as:  
 • `SIMD` that allows you to write vectorized code for CPUs,   
 • `gpu` package that enables hardware-agnostic GPU programming.*  
+
+
+**MLIR**  
+Built from the ground-up using MLIR.  
+— *a modern compiler infrastructure  
+for heterogeneous hardware,  
+from CPUs to GPUs and other AI ASICs.*  
+
+*One language to write all your code,  
+from high-level AI applications  
+all the way down to low-level GPU kernels  
+— without using any hardware-specific libraries  
+(such as CUDA and ROCm).*  
 
