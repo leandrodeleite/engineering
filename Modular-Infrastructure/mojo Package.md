@@ -23,3 +23,16 @@ call or build existing Mojo code.
 *- Programming in Python  
 and  calling a mojo Package.*  
 
+
+---
+**`mojo` Package**
+
+- Includes `mojo-compiler` list
+
+- Mojo language server (LSP) for IDE/edito integration
+- Mojo debugger (includes LLDB)
+- Mojo code formatter
+- Mojo REPL
+
+Everything needed for development..
+
