@@ -41,6 +41,9 @@ by building a complete Mojo program*
 *Learn to program GPUs in Mojo  
 by solving increasingly complex challenges*  
 
+- Build an LLM from scratch in MAX  
+| [llm.modular.com](https://llm.modular.com/)  
+
 - Code examples  
 | [examples/mojo](https://github.com/modular/modular/tree/main/examples/mojo)  
 *Browse a wide range of Mojo code examples on GitHub*
