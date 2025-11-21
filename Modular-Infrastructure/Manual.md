@@ -37,7 +37,7 @@ by building a complete Mojo program*
 *Learn the basics of GPU programming with Mojo*  
 
 - GPU Puzzles  
-| [puzzles.modular.com](https://puzzles.modular.com/introduction.html)  
+| [puzzles.modular.com](https://puzzles.modular.com/)  
 *Learn to program GPUs in Mojo  
 by solving increasingly complex challenges*  
 
