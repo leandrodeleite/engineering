@@ -95,6 +95,25 @@ __ Changelog
 *Install Mojo and learn the language basics  
 by building a complete Mojo program*  
 
+```
+    1. Create a Mojo project
+    2. Create a "Hello, world" program
+    3. Create and use variables
+    4. Use Mojo `Int` and `List` types to represent the game state
+    Copying values in Mojo
+    5. Create and use a function to print the grid
+    6. Create a module and define a custom type
+    7. Import a module and use our custom Grid type
+    8. Implement `grid_str()` as a method
+    9. Implement support for the Stringable trait
+    10. Implement methods to support indexing
+    11. Define a static method to generate random grids
+    12. Implement a method to evolve the grid
+    13. Import and use a Python package
+    Summary
+    Next steps
+```
+
 - Get started with GPU programming  
 | [mojo/manual/gpu/intro-tutorial](https://docs.modular.com/mojo/manual/gpu/intro-tutorial/)  
 *Learn the basics of GPU programming with Mojo*  
