@@ -87,6 +87,7 @@ GPU compatibility
 
 ---
 __ Changelog
+| [mojo/changelog](https://docs.modular.com/mojo/changelog)
 ```
 
 ```
