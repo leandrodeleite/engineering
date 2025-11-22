@@ -48,10 +48,13 @@ with:
 - `pip`
 - `conda`
 
+
 `pixi`  
 | [/pixi](https://docs.modular.com/pixi)  
-Package Manager and Virtual Environment Manager  
-More Reliable experience  
-Fast, Language Agnostic  
-Provides lock files for package dependencies  
+*More Reliable experience*  
+
+Both package manager and  
+virtual environment manager.  
+Fast, Language Agnostic.  
+Lock files for package dependencies.  
 
