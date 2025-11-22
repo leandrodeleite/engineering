@@ -29,9 +29,7 @@ Links
 
 
 
-- Get started with GPU programming  
-| [mojo/manual/gpu/intro-tutorial](https://docs.modular.com/mojo/manual/gpu/intro-tutorial/)  
-*Learn the basics of GPU programming with Mojo*  
+
 
 - GPU Puzzles  
 | [puzzles.modular.com](https://puzzles.modular.com/)  
@@ -97,9 +95,9 @@ __ Changelog
 *Install Mojo and learn the language basics  
 by building a complete Mojo program*  
 
-```
-Get started with GPU programming  
-```
+- Get started with GPU programming  
+| [mojo/manual/gpu/intro-tutorial](https://docs.modular.com/mojo/manual/gpu/intro-tutorial/)  
+*Learn the basics of GPU programming with Mojo*  
 
 
 ---
