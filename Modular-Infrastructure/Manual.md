@@ -118,6 +118,20 @@ by building a complete Mojo program*
 | [mojo/manual/gpu/intro-tutorial](https://docs.modular.com/mojo/manual/gpu/intro-tutorial/)  
 *Learn the basics of GPU programming with Mojo*  
 
+```
+    1. Create a Mojo project
+    2. Get a reference to the GPU device
+    3. Define a simple kernel
+    4. Compile and run the kernel
+    5. Manage grid dimensions
+    6. Allocate host memory for the input vectors
+    7. Copy the input vectors to GPU memory and allocate an output vector
+    8. Create `LayoutTensor` views
+    9. Define the vector addition kernel function
+    10. Invoke the kernel function and copy the output back to the CPU
+    Summary
+    Next steps
+```
 
 ---
 01 __ Language Basics  
