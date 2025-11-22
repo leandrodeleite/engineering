@@ -14,7 +14,8 @@
 
 - `mojo` CLI
 | [mojo/cli](https://docs.modular.com/mojo/cli/)  
-- Mojo Standard library  
+- Mojo Standard library
+| [mojo/lib](https://docs.modular.com/mojo/lib/)  
 - `mojo` Python package  
 
 Where only need to  
