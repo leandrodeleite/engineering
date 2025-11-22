@@ -58,3 +58,34 @@ virtual environment manager.
 Fast, Language Agnostic.  
 Lock files for package dependencies.  
 
+
+---
+## `pip` Commands
+
+*Stable*
+```sh
+pip install mojo
+```
+
+*Nightly
+```sh
+pip install \ 
+    --pre mojo \
+    --index-url https://dl.modular.com/public/nightly/python/simple/
+```
+
+*Verify*
+```
+mojo --version
+```
+
+*Update*
+```
+pip install --upgrade mojo
+```
+
+*Uninstall*
+```
+pip uninstall mojo
+```
+
