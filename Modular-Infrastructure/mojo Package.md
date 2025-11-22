@@ -36,3 +36,22 @@ and  calling a mojo Package.*
 
 Everything needed for development..
 
+
+---
+## Install Mojo
+
+As a Python Package,  
+with:  
+
+- `pixi`
+- `uv`
+- `pip`
+- `conda`
+
+`pixi`  
+| [/pixi](https://docs.modular.com/pixi)  
+Package Manager and Virtual Environment Manager  
+More Reliable experience  
+Fast, Language Agnostic  
+Provides lock files for package dependencies  
+
