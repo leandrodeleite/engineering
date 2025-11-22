@@ -141,3 +141,15 @@ all the way down to low-level GPU kernels
 — without using any hardware-specific libraries  
 (such as CUDA and ROCm).*  
 
+
+**GPU Compatibility**  
+| [mojo/manual/install#gpu-compatibility](https://docs.modular.com/mojo/manual/install#gpu-compatibility)  
+Supports both CPUs and GPUs.  
+
+*So you don't need a GPU to program with Mojo*  
+
+List of compatible GPUs:  
+Tier 1 | Fully supported  
+Tier 2 | Confirmed compatibility  
+Tier 3 | Limited compatibility  
+
