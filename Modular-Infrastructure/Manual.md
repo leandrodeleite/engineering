@@ -27,10 +27,7 @@ Links
 - Docs on GitHub  
 | [mojo/docs ](https://github.com/modular/modular/tree/main/mojo/docs)  
 
-- Get started with Mojo  
-| [mojo/manual/get-started](https://docs.modular.com/mojo/manual/get-started/)  
-*Install Mojo and learn the language basics  
-by building a complete Mojo program*  
+
 
 - Get started with GPU programming  
 | [mojo/manual/gpu/intro-tutorial](https://docs.modular.com/mojo/manual/gpu/intro-tutorial/)  
@@ -94,10 +91,16 @@ __ Changelog
 
 ---
 00 __ Tutorials  
+
+- Get started with Mojo  
+| [mojo/manual/get-started](https://docs.modular.com/mojo/manual/get-started/)  
+*Install Mojo and learn the language basics  
+by building a complete Mojo program*  
+
 ```
-Get started with Mojo  
 Get started with GPU programming  
 ```
+
 
 ---
 01 __ Language Basics  
