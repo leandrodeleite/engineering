@@ -16,7 +16,8 @@
 | [mojo/cli](https://docs.modular.com/mojo/cli/)  
 - Mojo Standard library
 | [mojo/lib](https://docs.modular.com/mojo/lib/)  
-- `mojo` Python package  
+- `mojo` Python package
+| [mojo/python/mojo](https://github.com/modular/modular/tree/main/mojo/python/mojo)  
 
 Where only need to  
 call or build existing Mojo code.  
