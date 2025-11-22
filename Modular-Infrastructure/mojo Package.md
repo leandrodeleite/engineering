@@ -38,6 +38,7 @@ and  calling a mojo Package.*
 - Mojo Code Formatter
 | [mojo/cli/format](https://docs.modular.com/mojo/cli/format/)
 - Mojo REPL
+| [mojo/cli/repl](https://docs.modular.com/mojo/cli/repl/)
 
 Everything needed for development..
 
