@@ -35,7 +35,8 @@ and  calling a mojo Package.*
 - Mojo language server (LSP) for IDE/edito integration
 - Mojo Debugger (includes LLDB)
 | [mojo/tools/debugging](https://docs.modular.com/mojo/tools/debugging/)
-- Mojo code formatter
+- Mojo Code Formatter
+| [mojo/cli/format](https://docs.modular.com/mojo/cli/format/)
 - Mojo REPL
 
 Everything needed for development..
