@@ -12,7 +12,8 @@
 ---
 **`mojo-compiler` Package**  
 
-- `mojo` CLI  
+- `mojo` CLI
+| [mojo/cli](https://docs.modular.com/mojo/cli/)  
 - Mojo Standard library  
 - `mojo` Python package  
 
