@@ -145,7 +145,7 @@ Operators and expressions
 Control flow
 Errors and context managers
 Structs
-Modules and packages
+Modules and Packages
 ```
 
 ```
@@ -162,6 +162,15 @@ Overview
     Python integration
     Next steps
 ```
+
+Modules and Packages  
+| [mojo/manual/packages](https://docs.modular.com/mojo/manual/packages)  
+```
+Mojo modules
+Mojo packages
+  The __init__ file
+```
+
 
 ---
 02 __ Value Ownership  
